@@ -1,0 +1,17 @@
+body{
+  background-color:#FDCFDF;
+}
+.navbar-brand
+{
+  font-family: 'Dancing Script', cursive;
+  font-size:2.5rem;
+  font-weight: bold;
+}
+.intro-img{
+  width:700px;
+  height:500px;
+}
+h2
+{
+  font-family: 'Encode Sans', sans-serif;
+}
